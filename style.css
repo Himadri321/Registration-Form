@@ -16,3 +16,10 @@ button{
     padding: 10px;
     font-size: 15px;
 }
+ button:hover{
+     color: #fb5607;
+     border-color: #fb5607;
+     border-width: 4px;
+     box-shadow: 0 0.5em 0.5em -0.5em rgba(255, 94, 0, 0.883);
+     transform: translateY(-0.25em);
+ }
